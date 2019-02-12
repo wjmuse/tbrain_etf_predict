@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+data
+deprecated/
+temp/
+ckpt/
+*.h5
+*.log
